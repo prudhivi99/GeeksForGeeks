@@ -1,5 +1,5 @@
 # GeeksForGeeks
-Problems from GeeksForGeeks
+The following problems solved from GeeksForGeeks
 
 **Strings**
 
