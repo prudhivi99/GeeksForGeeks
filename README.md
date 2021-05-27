@@ -16,7 +16,7 @@ Problems from GeeksForGeeks
 **Binary Search Trees**
 
 
-**Heap **
+**Heap**
 
 
 **Trie**
