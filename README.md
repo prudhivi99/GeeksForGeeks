@@ -11,6 +11,8 @@ The following problems solved from GeeksForGeeks
 
 1. Flattening a Linked List
 
+![image](https://user-images.githubusercontent.com/63187046/120115498-8b8b7500-c1a1-11eb-8a14-82c72f69b477.png)
+
 5 -> 10 -> 19 -> 28
 |     |     |     | 
 7     20    22   35
